@@ -5,11 +5,13 @@ The Hill Cipher is a polygraphic substitution cipher that uses matrix algebra to
 ## Installation
 1. Clone the GitHub repository:
 ```bash
-git clone https://github.com/Jawabreh0/hill-cipher```
+git clone https://github.com/Jawabreh0/hill-cipher
+```
 
 2. Install NumPy:
 ```bash
-pip install numpy```
+pip install numpy
+```
 
 ##Usage
 To encrypt a message using the Hill Cipher, run hill-cipher.py:
